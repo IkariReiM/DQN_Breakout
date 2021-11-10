@@ -1,4 +1,4 @@
 # DQN_Breakout
- DQN_Breakout
+ DQN_Breakout Implementation by pyTorch.
 
-234
+ Improved by Prioritized Experience Replay and Dueling DQN.
